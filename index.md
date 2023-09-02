@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Things I like about CS19300:
 - I like the way the TAs can help us with topics that we have trouble with in CS18000.
-- I like the fact that it's more interactive than CS18000.
+- I like the fact that it's more **interactive** than CS18000.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
